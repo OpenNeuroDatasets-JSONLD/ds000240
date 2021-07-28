@@ -1,3 +1,6 @@
+1.0.0 2021-07-28
+  - Updated metadata formatting
+  - Rewrite changelog to reflect OpenNeuro versions
 00002	2018-04-09
 
 	- Renamed dataset name to same as OpenfMRI
