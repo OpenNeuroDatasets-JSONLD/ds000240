@@ -1,3 +1,5 @@
+2.0.0 2021-08-17
+  - 1.  json files were added  for all nifti 2.  aslcontext files were added  for asl Nfti  3.   func folder was changed  to perf folder for asl files 
 1.0.0 2021-07-28
   - Updated metadata formatting
   - Rewrite changelog to reflect OpenNeuro versions
