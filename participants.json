@@ -43,49 +43,19 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949bb1",
+                "TermURL": "snomed:414750000",
                 "Label": ""
             }
         },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "STROOP color": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949e27",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "STROOP interference": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949e27",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "STROOP reading": {
-        "Annotations": {
-            "IsAbout": {
-                "TermURL": "nb:Assessment",
-                "Label": ""
-            },
-            "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949e27",
-                "Label": ""
-            }
-        },
         "Description": "There should have been a description here, but there wasn't. :("
     },
     "WAIS-III digits test": {
@@ -95,7 +65,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:tsk_4a57abb949f12",
+                "TermURL": "snomed:273917002",
                 "Label": ""
             }
         },
@@ -108,7 +78,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:trm_4b94b12bf0eb2",
+                "TermURL": "snomed:273921009",
                 "Label": ""
             }
         },
@@ -121,7 +91,7 @@
                 "Label": ""
             },
             "IsPartOf": {
-                "TermURL": "cogatlas:trm_4b94b12bf0eb2",
+                "TermURL": "snomed:273921009",
                 "Label": ""
             }
         },
